@@ -7,3 +7,5 @@ Segunda fase del código.
 Tercera fase del código.
 
 Añado modulos que tienen que ir.
+
+Añado modulos secundarios que tienen que ir.
