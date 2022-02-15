@@ -1,5 +1,5 @@
 # py-ipsender
 
-Send your public ip to email
+Send your public ip to email.
 
-Descripcion y uso del software
+Descripción y uso del software.
